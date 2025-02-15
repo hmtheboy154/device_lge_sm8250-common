@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_hardware_lge",
     "target_path": "hardware/lge"
   },
   {
+    "remote": "lineage",
     "repository": "android_kernel_lge_sm8250",
     "target_path": "kernel/lge/sm8250"
   }
